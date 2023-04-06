@@ -1,6 +1,6 @@
 #include "Slime.h"
 #include "Monster.h"
 
-class Goblin
+class Goblin : public Monster
 {
 };
