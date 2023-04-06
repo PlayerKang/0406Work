@@ -1,9 +1,11 @@
 #include "Player.h"
-#include "Character.h"
 
-class Player : public Character
+
+
+void FPlayer::Move()
 {
-	bool CanAttackMonster = true;
-	int HP = 100;
-	int MP = 100;
-};
+}
+
+void FPlayer::Attack()
+{
+}
